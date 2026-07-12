@@ -4,21 +4,8 @@ WorkFlowX is a modern, responsive project management dashboard built using **HTM
 
 The project demonstrates strong frontend development skills including responsive design, DOM manipulation, Local Storage, drag-and-drop interactions, and dynamic user interfaces.
 
----
 
-## 📸 Preview
 
-> Add screenshots here
-
-```
-assets/
-├── dashboard.png
-├── kanban.png
-├── calendar.png
-└── analytics.png
-```
-
----
 
 ## ✨ Features
 
@@ -110,17 +97,7 @@ No installation or dependencies required.
 
 ---
 
-## 📷 Screenshots
 
-| Dashboard | Kanban |
-|-----------|---------|
-| Add Screenshot | Add Screenshot |
-
-| Calendar | Analytics |
-|-----------|------------|
-| Add Screenshot | Add Screenshot |
-
----
 
 ## 👨‍💻 Author
 
