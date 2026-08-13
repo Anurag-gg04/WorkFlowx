@@ -1,4 +1,8 @@
 "use strict";
+
+/* ════════════════════════════════════════════════════════════
+   APP STATE — Reactive Data Store with Pub/Sub & Live Sync
+════════════════════════════════════════════════════════════ */
 const AppState = (() => {
   const STORAGE_KEY = "workflowx_data";
   const listeners = [];
@@ -569,7 +573,9 @@ const AppState = (() => {
     try {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
       notify(keyModified);
-    } catch (e) {}
+    } catch (e) {
+      /* storage full */
+    }
   }
 
   function subscribe(fn) {
@@ -3465,3 +3471,4 @@ document.addEventListener("DOMContentLoaded", () => {
     if (el) Utils.animateCount(el, score);
   }, 5000);
 });
+e;
