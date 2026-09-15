@@ -4,7 +4,7 @@
 
 **A modern team workspace for managing tasks, projects, communication, meetings, and day-to-day collaboration in one place.**
 
-<<<<<<< HEAD
+
 ## ✨ Features
 
 - 📊 Interactive Dashboard
