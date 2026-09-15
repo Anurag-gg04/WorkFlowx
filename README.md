@@ -28,8 +28,6 @@
 ![Netlify](https://img.shields.io/badge/Deployed-Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
 
 </div>
->>>>>>> afb3dd8cc666827928486de57006347be041802e
-
 ---
 
 ## 📌 About
